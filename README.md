@@ -4,6 +4,6 @@ Problem Statment: Skill Swap Platform
 
 ---
 
-Team Name: blacrety
-Member: Akmal Hossain 
+Team Name: blacrety <br/>
+Member: Akmal Hossain <br/>
 Email: hossainakmal2045@gmail.com
